@@ -2,6 +2,16 @@
 
 AI Travel Guide is an intelligent travel assistant that provides personalized travel recommendations, destination insights, and itinerary suggestions using Large Language Models (LLMs) and vector-based semantic search.
 
+<img width="1913" height="903" alt="image" src="https://github.com/user-attachments/assets/83358d81-ade9-4139-bd0a-d893300a3863" />
+
+<br>
+
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/03317073-5b62-43be-8bb1-5fa64e4a6e72" />
+<br>
+<img width="1914" height="903" alt="image" src="https://github.com/user-attachments/assets/54d63842-e45e-416a-8704-88a9b537d1e0" />
+<br>
+<img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/50065fb9-9414-48ec-b514-203bb1833688" />
+
 ---
 
 ## Overview
