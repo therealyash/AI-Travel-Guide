@@ -94,7 +94,7 @@ Example query:
 
 ### Step 3: Run the Interactive Chat
 ```bash
-python travel_guide.py
+streamlit run travel_guide.py
 ```
 Engage in a conversation with your AI Travel Assistant to receive contextual travel insights.
 
